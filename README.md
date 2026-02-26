@@ -56,6 +56,6 @@ The winner was **XGBoost**, and it wasn't particularly close. It handled the non
 
 ## A Note on the Journey
 
-I didn't start knowing any of this. The bootcamp gave me the foundation, and the independent projects gave me the confidence that I could take a messy real-world problem and actually do something useful with it. There's still a lot to learn — there always is — but I'm proud of what's in this repo.
+I didn't start knowing any of this. The bootcamp gave me the foundation, and the independent projects gave me the confidence that I could take a messy real-world problem and actually do something useful with it. There's still a lot to learn, there always is — but I'm proud of what's in this repo.
 
 If you have questions or want to talk through any of the projects, feel free to reach out.
