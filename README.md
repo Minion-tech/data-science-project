@@ -1,8 +1,8 @@
 # Data Science Projects
 
-Hey! I'm glad you're here. This repo is a collection of data science work I've done over the past while — some of it from Angela Yu's 100 Days of Code bootcamp, and some of it independent projects I took on to solve real-world problems.
+Hey! I'm glad you're here. This repo is a collection of data science work I've done over the past while, some of it from Angela Yu's 100 Days of Code bootcamp, and some of it independent projects I took on to solve real-world problems.
 
-I'll be honest — when I started the 100 Days of Code, I had no idea how deep I'd go into data. But somewhere around the analytics projects, it just clicked. So here's everything, laid out as clearly as I can.
+I'll be honest, when I started the 100 Days of Code, I had no idea how deep I'd go into data. But somewhere around the analytics projects, it just clicked. So here's everything, laid out as clearly as I can.
 
 ---
 
@@ -10,17 +10,17 @@ I'll be honest — when I started the 100 Days of Code, I had no idea how deep I
 
 These three were part of the bootcamp curriculum. They're not fancy, but they taught me how to actually think with data.
 
-### 🧱 LEGO Analysis
+###  LEGO Analysis
 I looked at LEGO's dataset — sets, themes, parts, years — and tried to figure out how the product line has evolved over time. Things like which themes dominated certain decades, how the number of pieces per set has changed, and which colors appear most. It was a fun one because, well, it's LEGO.
 
 **Tools used:** Python, Pandas, Matplotlib, Seaborn
 
-### 📱 Google Play Store App Analytics
+###  Google Play Store App Analytics
 This one was about understanding what makes an app successful on the Play Store. I cleaned up a pretty messy dataset and explored things like ratings distribution, category performance, free vs paid apps, and install counts. Good practice for dealing with real-world dirty data.
 
 **Tools used:** Python, Pandas, Plotly
 
-### 📈 Google Trends & Data Visualization
+###  Google Trends & Data Visualization
 Used Google Trends data to explore how search interest correlates with real-world events — things like Bitcoin prices, Tesla stock, and unemployment rates. Mostly a visualization-heavy project, but it sharpened my eye for storytelling with charts.
 
 **Tools used:** Python, Pandas, Matplotlib
@@ -31,7 +31,7 @@ Used Google Trends data to explore how search interest correlates with real-worl
 
 These two I built outside the bootcamp because I wanted to work on problems with actual stakes.
 
-### 💳 Paisabazaar Credit Risk Analysis
+###  Paisabazaar Credit Risk Analysis
 
 **The problem:** A financial institution was spending too much time manually evaluating loan applicants, and even then, high-risk borrowers were slipping through the cracks — leading to defaults that cost real money.
 
@@ -43,7 +43,7 @@ The goal wasn't just accuracy — it was about making something a financial team
 
 ---
 
-### 🛒 Retail Analytics — Sales Forecasting
+###  Retail Analytics — Sales Forecasting
 
 **The problem:** Retail stores struggle to get their inventory and staffing right because predicting weekly sales is genuinely hard. Too much stock costs money. Too little loses customers. The business needed a reliable forecasting system.
 
